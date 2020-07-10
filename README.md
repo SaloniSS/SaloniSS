@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Saloni Shivdasani (she/her). Learn more about me on my [website](https://www.saloni-shivdasani.codes) and view all my projects on my portoflios [here](https://www.saloni-shivdasani.codes/projects) and  [here](http://devpost.com/SaloniS)
+I am Saloni Shivdasani (she/her).
 
 ### About Me 😄
 
@@ -12,15 +12,7 @@ From my coursework and local competitions, I have skills in algorithms and data 
 
 I am also actively involved in campus organization where I am the cloud technical lead for Developer Student Club, Mentor and Education Officer for Association of Computing Machinery, event planner for Women Mentoring Women in Engineering and IT Committee member for IEEE.
 
-
-### Education 📚
-
-- BSc , Software Engineering
-  - The University of Texas at Dallas
-  - Graduating May 2021
-  - Concentration : Information Assurance
-  - Collegium V Scholar, Hobson Wildenthal Honors College
-  - Academic Excellence Scholar
+### Learn more about me on my [website](https://www.saloni-shivdasani.codes) and view all my projects on my portfolios [here](https://www.saloni-shivdasani.codes/projects) and  [here](http://devpost.com/SaloniS)
 
 <!--
 **SaloniSS/SaloniSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
