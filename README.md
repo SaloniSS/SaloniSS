@@ -1,12 +1,32 @@
 ## Hi there 👋
 
-I am Saloni Shivdasani (she/her).
-<img align='right' src="https://storage.googleapis.com/saloni-shivdasani-resume/Saloni.png" width="230">
+```javascript
+const SaloniShivdasani = {
+    pronouns: "She/Her" && "They/Them",
+    askMeAbout: ["Full Stack Web Development", "Cloud Computing", "Cyber Security"],
+    technologies: {
+        languages: ["Java", "JavaScript", "SQL", "Python", "C++", "R"],
+        webDev: {
+            frontEnd: ["React", "React Native", "Electron"],
+            backEnd: ["Node.js", "Express", "Flask"],
+            databases: ["MongoDB", "MySql"],
+        },
+        cyberSec: ["Forensics", "Intrusion Detection", "Security Operations", "Network and Application Penetration Testing"],
+        cloud: ["GCP", "AWS"],
+        misc: ["Firebase", "git"]
+    },
+   organizations: {
+        educationOfficer: "Association of Computer Machinery, UTD",
+        eventPlanner: "Women Mentoring Women in Engineering, UTD",
+        cloudTechnicalLead: "Developer Students Club, UTD"
+   },
+};
+```
 
 <!--START_SECTION:table-->
 <details>
 
-<summary>Learn More About Me 😄</summary>
+<summary>Learn More About Me 😄 </summary>
 
 I am a junior at The University of Texas at Dallas, and I am currently majoring in Software Engineering with a concentration in Information Assurance. I am interested and have experience in full stack development, cloud computing, and cybersecurity. I hope to find opportunities where I can gain exposure to algorithm and project design. My ultimate aim is to develop futuristic products for users because I am inspired by the impact of computing on society.
 
