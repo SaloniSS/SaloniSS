@@ -14,6 +14,9 @@ I am also actively involved in campus organization where I am the cloud technica
 
 ### Learn more about me on my [website](https://www.saloni-shivdasani.codes) and view all my projects on my portfolios [here](https://www.saloni-shivdasani.codes/projects) and  [here](http://devpost.com/SaloniS)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **SaloniSS/SaloniSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
