@@ -22,6 +22,11 @@ const SaloniShivdasani = {
         eventPlanner: "Women Mentoring Women in Engineering, UTD",
         cloudTechnicalLead: "Developer Students Club, UTD"
    },
+   hackathons: {
+        attended: 15
+        won: 8
+        mentoredJudged: 3
+   }
 };
 ```
 
