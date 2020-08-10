@@ -23,8 +23,8 @@ const SaloniShivdasani = {
         cloudTechnicalLead: "Developer Students Club, UTD"
    },
    hackathons: {
-        attended: 15
-        won: 8
+        attended: 15,
+        won: 8,
         mentoredJudged: 3
    }
 };
