@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img align='right' src="https://storage.googleapis.com/saloni-shivdasani-resume/Saloni.png" width="200">
+
 ```javascript
 const SaloniShivdasani = {
     pronouns: "She/Her" && "They/Them",
