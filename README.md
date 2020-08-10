@@ -15,79 +15,9 @@ I am also actively involved in campus organization where I am the cloud technica
 ### Learn more about me on my [website](https://www.saloni-shivdasani.codes) and view all my projects on my portfolios [here](https://www.saloni-shivdasani.codes/projects) and  [here](http://devpost.com/SaloniS)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 1,374 Contributions in year 2020
- > 
-> 📦 Used 0 Bytes in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 18 Public Repositories 
- > 
-> 🔑 0 Owned Private Repository 
- > 
-**I'm a night 🦉** 
-
 ```text
-🌞 Morning    164 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.06% 
-🌆 Daytime    219 commits    █████░░░░░░░░░░░░░░░░░░░░   21.45% 
-🌃 Evening    341 commits    ████████░░░░░░░░░░░░░░░░░   33.4% 
-🌙 Night      297 commits    ███████░░░░░░░░░░░░░░░░░░   29.09%
-
-```
-📅 **I'm Most Productive on Saturdays** 
-
-```text
-Monday       67 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.56% 
-Tuesday      64 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.27% 
-Wednesday    101 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.89% 
-Thursday     55 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.39% 
-Friday       137 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.42% 
-Saturday     338 commits    ████████░░░░░░░░░░░░░░░░░   33.1% 
-Sunday       259 commits    ██████░░░░░░░░░░░░░░░░░░░   25.37%
-
-```
-
-
-📊 **This week I spent my time on** 
-
-```text
-⌚︎ Timezone: America/Chicago
-
-💬 Languages: 
 No Activity tracked this Week
-
-🔥 Editors: 
-No Activity tracked this Week
-
-🐱‍💻 Projects: 
-No Activity tracked this Week
-
-💻 Operating Systems: 
-No Activity tracked this Week
-
 ```
-
-**I mostly code in JavaScript** 
-
-```text
-JavaScript               19 repos            ████████████░░░░░░░░░░░░░   48.72% 
-Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
-TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.13%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/SaloniSS/SaloniSS/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 <!--
