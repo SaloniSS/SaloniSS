@@ -52,7 +52,7 @@ I am also actively involved in campus organization where I am the cloud technica
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-[![Saloni's github stats](https://github-readme-stats.vercel.app/api?username=SaloniSS)](https://github.com/anuraghazra/github-readme-stats)
+[![Saloni's github stats](https://github-readme-stats.vercel.app/api?username=SaloniSS)]
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-21.1%20million%20Lines%20of%20code-blue)
