@@ -16,8 +16,11 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LOC_CHART: "False"
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_EDITORS: "False"
   update-recent:
-    name: Update Readme with Recent COntributions
+    name: Update Readme with Recent Contributions
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
