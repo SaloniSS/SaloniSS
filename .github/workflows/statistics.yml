@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Update Statistics
 on:
   workflow_dispatch:
   schedule:
@@ -19,11 +19,3 @@ jobs:
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_EDITORS: "False"
-  update-recent:
-    name: Update Readme with Recent Contributions
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
