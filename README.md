@@ -55,7 +55,7 @@ I am also actively involved in campus organization where I am the cloud technica
 ![Saloni's github stats](https://github-readme-stats.vercel.app/api?username=SaloniSS)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-21.1%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-21.0%20million%20Lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -72,9 +72,9 @@ I am also actively involved in campus organization where I am the cloud technica
 **I'm a night 🦉** 
 
 ```text
-🌞 Morning    192 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.98% 
+🌞 Morning    193 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.07% 
 🌆 Daytime    219 commits    █████░░░░░░░░░░░░░░░░░░░░   20.51% 
-🌃 Evening    345 commits    ████████░░░░░░░░░░░░░░░░░   32.3% 
+🌃 Evening    344 commits    ████████░░░░░░░░░░░░░░░░░   32.21% 
 🌙 Night      312 commits    ███████░░░░░░░░░░░░░░░░░░   29.21%
 
 ```
@@ -83,8 +83,8 @@ I am also actively involved in campus organization where I am the cloud technica
 ```text
 Monday       107 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.02% 
 Tuesday      71 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.65% 
-Wednesday    101 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.46% 
-Thursday     55 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.15% 
+Wednesday    102 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.55% 
+Thursday     54 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.06% 
 Friday       137 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.83% 
 Saturday     338 commits    ████████░░░░░░░░░░░░░░░░░   31.65% 
 Sunday       259 commits    ██████░░░░░░░░░░░░░░░░░░░   24.25%
