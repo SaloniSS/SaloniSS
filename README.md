@@ -60,11 +60,11 @@ I am also actively involved in campus organization where I am the cloud technica
 <summary>More Stats 📊 </summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-21.1%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-21.0%20million%20Lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,431 Contributions in year 2020
+> 🏆 1,427 Contributions in year 2020
  > 
 > 📦 Used 509.8 kB in GitHub's Storage 
  > 
@@ -79,18 +79,18 @@ I am also actively involved in campus organization where I am the cloud technica
 ```text
 🌞 Morning    195 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.24% 
 🌆 Daytime    219 commits    █████░░░░░░░░░░░░░░░░░░░░   20.49% 
-🌃 Evening    345 commits    ████████░░░░░░░░░░░░░░░░░   32.27% 
-🌙 Night      310 commits    ███████░░░░░░░░░░░░░░░░░░   29.0%
+🌃 Evening    347 commits    ████████░░░░░░░░░░░░░░░░░   32.46% 
+🌙 Night      308 commits    ███████░░░░░░░░░░░░░░░░░░   28.81%
 
 ```
 📅 **I'm Most Productive on Saturdays** 
 
 ```text
 Monday       106 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.92% 
-Tuesday      69 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
+Tuesday      67 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.27% 
 Wednesday    105 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.82% 
 Thursday     54 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.05% 
-Friday       138 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.91% 
+Friday       140 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.1% 
 Saturday     338 commits    ████████░░░░░░░░░░░░░░░░░   31.62% 
 Sunday       259 commits    ██████░░░░░░░░░░░░░░░░░░░   24.23%
 
