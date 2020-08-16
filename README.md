@@ -65,19 +65,19 @@ I am also actively involved in campus organization where I am the cloud technica
 <summary>More Stats 📊 </summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-21.1%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.1%20million%20Lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 1,437 Contributions in 2020
+> 🏆 1,437 Contributions in the year 2020
  > 
-> 📦 Used 509.8 kB in GitHub's Storage 
+> 📦 509.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 18 Public repositories
  > 
-> 🔑 18 Owned Private Repositories 
+> 🔑 18 Private repositories 
 
 **I'm a Night 🦉** 
 
@@ -88,7 +88,7 @@ I am also actively involved in campus organization where I am the cloud technica
 🌙 Night      305 commits    ███████░░░░░░░░░░░░░░░░░░   28.53%
 
 ```
-📅 **I'm Most Productive on Saturdays** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday       106 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.92% 
@@ -102,12 +102,12 @@ Sunday       259 commits    ██████░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: America/Chicago
+⌚︎ Time zone: America/Chicago
 
-💬 Languages: 
+💬 Programming Languages: 
 TypeScript               5 hrs 41 mins       ████████████░░░░░░░░░░░░░   49.37% 
 Python                   2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   23.71% 
 JavaScript               1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.82% 
