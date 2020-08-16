@@ -64,7 +64,7 @@ I am also actively involved in campus organization where I am the cloud technica
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,437 Contributions in year 2020
+> 🏆 1,437 Contributions in 2020
  > 
 > 📦 Used 509.8 kB in GitHub's Storage 
  > 
@@ -74,7 +74,7 @@ I am also actively involved in campus organization where I am the cloud technica
  > 
 > 🔑 18 Owned Private Repositories 
 
-**I'm a night 🦉** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    198 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
@@ -97,7 +97,7 @@ Sunday       259 commits    ██████░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Timezone: America/Chicago
@@ -111,7 +111,7 @@ Text                     16 mins             ░░░░░░░░░░░�
 
 ```
 
-**I mostly code in JavaScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               19 repos            ████████████░░░░░░░░░░░░░   48.72% 
