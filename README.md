@@ -65,19 +65,19 @@ I am also actively involved in campus organization where I am the cloud technica
 <summary>More Stats 📊 </summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.4%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.4%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,438 Contributions in the year 2020
+> 🏆 1,438 Contributions in the Year 2020
  > 
 > 📦 509.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 18 Public repositories
+> 📜 18 Public Repositories
  > 
-> 🔑 18 Private repositories 
+> 🔑 18 Private Repositories 
 
 **I'm a Night 🦉** 
 
@@ -102,10 +102,10 @@ Sunday       259 commits    ██████░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: America/Chicago
+⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
 Python                   2 hrs 52 mins       ████████████████████░░░░░   82.51% 
