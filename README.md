@@ -50,11 +50,11 @@ I am also actively involved in campus organization where I am the cloud technica
 ### Learn more about me on my [website](https://www.saloni-shivdasani.codes) and view all my projects on my portfolios [here](https://www.saloni-shivdasani.codes/projects) and  [here](http://devpost.com/SaloniS)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#96](https://github.com//acmutd/TrackIT/issues/96) in [acmutd/TrackIT](https://github.com//acmutd/TrackIT)
-2. ❗️ Closed issue [#70](https://github.com//ReshmiCode/ProductiviTree/issues/70) in [ReshmiCode/ProductiviTree](https://github.com//ReshmiCode/ProductiviTree)
-3. 🎉 Merged PR [#108](https://github.com//ReshmiCode/ProductiviTree/pull/108) in [ReshmiCode/ProductiviTree](https://github.com//ReshmiCode/ProductiviTree)
-4. 🎉 Merged PR [#107](https://github.com//ReshmiCode/ProductiviTree/pull/107) in [ReshmiCode/ProductiviTree](https://github.com//ReshmiCode/ProductiviTree)
-5. 🎉 Merged PR [#106](https://github.com//ReshmiCode/ProductiviTree/pull/106) in [ReshmiCode/ProductiviTree](https://github.com//ReshmiCode/ProductiviTree)
+1. 💪 Opened PR [#33](https://github.com//acmutd/comet_planning/pull/33) in [acmutd/comet_planning](https://github.com//acmutd/comet_planning)
+2. ❗️ Opened issue [#96](https://github.com//acmutd/TrackIT/issues/96) in [acmutd/TrackIT](https://github.com//acmutd/TrackIT)
+3. ❗️ Closed issue [#70](https://github.com//ReshmiCode/ProductiviTree/issues/70) in [ReshmiCode/ProductiviTree](https://github.com//ReshmiCode/ProductiviTree)
+4. 🎉 Merged PR [#108](https://github.com//ReshmiCode/ProductiviTree/pull/108) in [ReshmiCode/ProductiviTree](https://github.com//ReshmiCode/ProductiviTree)
+5. 🎉 Merged PR [#107](https://github.com//ReshmiCode/ProductiviTree/pull/107) in [ReshmiCode/ProductiviTree](https://github.com//ReshmiCode/ProductiviTree)
 <!--END_SECTION:activity-->
 
 ![Saloni's github stats](https://github-readme-stats.vercel.app/api?username=SaloniSS)
