@@ -65,7 +65,7 @@ I am also actively involved in campus organization where I am the cloud technica
 <summary>More Stats 📊 </summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.4%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -75,16 +75,16 @@ I am also actively involved in campus organization where I am the cloud technica
  > 
 > 💼 Opted to Hire
  > 
-> 📜 19 Public Repositories
+> 📜 20 Public Repositories
  > 
-> 🔑 18 Private Repositories 
+> 🔑 17 Private Repositories 
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    198 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.5% 
+🌞 Morning    199 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.6% 
 🌆 Daytime    220 commits    █████░░░░░░░░░░░░░░░░░░░░   20.56% 
-🌃 Evening    347 commits    ████████░░░░░░░░░░░░░░░░░   32.43% 
+🌃 Evening    346 commits    ████████░░░░░░░░░░░░░░░░░   32.34% 
 🌙 Night      305 commits    ███████░░░░░░░░░░░░░░░░░░   28.5%
 
 ```
