@@ -26,7 +26,11 @@ const SaloniShivdasani = {
         attended: 17,
         won: 8,
         mentoredJudged: 3
-   }
+   },
+   awards: {
+        WiCyS_Google_2020: "SANS Security Training Scholarship",
+        SANSInstitute_2019: "Cyber Fast-Track Game Quarter-Finalist",
+   },
 };
 ```
 
