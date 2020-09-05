@@ -54,11 +54,11 @@ I am also actively involved in campus organization where I am the cloud technica
 ### Learn more about me on my [website](https://www.saloni-shivdasani.codes) and view all my projects on my portfolios [here](https://www.saloni-shivdasani.codes/projects) and  [here](http://devpost.com/SaloniS)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com//DSC-UTDallas/explore-ml/pull/3) in [DSC-UTDallas/explore-ml](https://github.com//DSC-UTDallas/explore-ml)
-2. 💪 Opened PR [#3](https://github.com//DSC-UTDallas/explore-ml/pull/3) in [DSC-UTDallas/explore-ml](https://github.com//DSC-UTDallas/explore-ml)
-3. 💪 Opened PR [#33](https://github.com//acmutd/comet_planning/pull/33) in [acmutd/comet_planning](https://github.com//acmutd/comet_planning)
-4. ❗️ Opened issue [#96](https://github.com//acmutd/TrackIT/issues/96) in [acmutd/TrackIT](https://github.com//acmutd/TrackIT)
-5. ❗️ Closed issue [#70](https://github.com//ReshmiCode/ProductiviTree/issues/70) in [ReshmiCode/ProductiviTree](https://github.com//ReshmiCode/ProductiviTree)
+1. 🎉 Merged PR [#4](https://github.com//DSC-UTDallas/explore-ml/pull/4) in [DSC-UTDallas/explore-ml](https://github.com//DSC-UTDallas/explore-ml)
+2. 💪 Opened PR [#4](https://github.com//DSC-UTDallas/explore-ml/pull/4) in [DSC-UTDallas/explore-ml](https://github.com//DSC-UTDallas/explore-ml)
+3. 🎉 Merged PR [#3](https://github.com//DSC-UTDallas/explore-ml/pull/3) in [DSC-UTDallas/explore-ml](https://github.com//DSC-UTDallas/explore-ml)
+4. 💪 Opened PR [#3](https://github.com//DSC-UTDallas/explore-ml/pull/3) in [DSC-UTDallas/explore-ml](https://github.com//DSC-UTDallas/explore-ml)
+5. 💪 Opened PR [#33](https://github.com//acmutd/comet_planning/pull/33) in [acmutd/comet_planning](https://github.com//acmutd/comet_planning)
 <!--END_SECTION:activity-->
 
 ![Saloni's github stats](https://github-readme-stats.vercel.app/api?username=SaloniSS)
