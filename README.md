@@ -54,11 +54,11 @@ I am also actively involved in campus organization where I am the cloud technica
 ### Learn more about me on my [website](https://www.saloni-shivdasani.codes) and view all my projects on my portfolios [here](https://www.saloni-shivdasani.codes/projects) and  [here](http://devpost.com/SaloniS)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com//DSC-UTDallas/Agenda-Bot/issues/1) in [DSC-UTDallas/Agenda-Bot](https://github.com//DSC-UTDallas/Agenda-Bot)
-2. 🗣 Commented on [#1](https://github.com//DSC-UTDallas/Agenda-Bot/issues/1) in [DSC-UTDallas/Agenda-Bot](https://github.com//DSC-UTDallas/Agenda-Bot)
-3. 🎉 Merged PR [#5](https://github.com//DSC-UTDallas/Agenda-Bot/pull/5) in [DSC-UTDallas/Agenda-Bot](https://github.com//DSC-UTDallas/Agenda-Bot)
-4. 💪 Opened PR [#5](https://github.com//DSC-UTDallas/Agenda-Bot/pull/5) in [DSC-UTDallas/Agenda-Bot](https://github.com//DSC-UTDallas/Agenda-Bot)
-5. 🎉 Merged PR [#4](https://github.com//DSC-UTDallas/Agenda-Bot/pull/4) in [DSC-UTDallas/Agenda-Bot](https://github.com//DSC-UTDallas/Agenda-Bot)
+1. 💪 Opened PR [#6](https://github.com//DSC-UTDallas/Agenda-Bot/pull/6) in [DSC-UTDallas/Agenda-Bot](https://github.com//DSC-UTDallas/Agenda-Bot)
+2. ❗️ Closed issue [#1](https://github.com//DSC-UTDallas/Agenda-Bot/issues/1) in [DSC-UTDallas/Agenda-Bot](https://github.com//DSC-UTDallas/Agenda-Bot)
+3. 🗣 Commented on [#1](https://github.com//DSC-UTDallas/Agenda-Bot/issues/1) in [DSC-UTDallas/Agenda-Bot](https://github.com//DSC-UTDallas/Agenda-Bot)
+4. 🎉 Merged PR [#5](https://github.com//DSC-UTDallas/Agenda-Bot/pull/5) in [DSC-UTDallas/Agenda-Bot](https://github.com//DSC-UTDallas/Agenda-Bot)
+5. 💪 Opened PR [#5](https://github.com//DSC-UTDallas/Agenda-Bot/pull/5) in [DSC-UTDallas/Agenda-Bot](https://github.com//DSC-UTDallas/Agenda-Bot)
 <!--END_SECTION:activity-->
 
 ![Saloni's github stats](https://github-readme-stats.vercel.app/api?username=SaloniSS)
