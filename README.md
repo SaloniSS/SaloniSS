@@ -75,7 +75,7 @@ I am also actively involved in campus organization where I am the cloud technica
 
 > 🏆 1,608 Contributions in the Year 2020
  > 
-> 📦 520.6 kB Used in Github's Storage 
+> 📦 520.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
