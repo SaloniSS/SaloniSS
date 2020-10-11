@@ -54,11 +54,11 @@ I am also actively involved in campus organization where I am the cloud technica
 ### Learn more about me on my [website](https://www.saloni-shivdasani.codes) and view all my projects on my portfolios [here](https://www.saloni-shivdasani.codes/projects) and  [here](http://devpost.com/SaloniS)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/acmutd/acmutd.github.io/pull/38) in [acmutd/acmutd.github.io](https://github.com/acmutd/acmutd.github.io)
-2. 🎉 Merged PR [#9](https://github.com/DSC-UTDallas/DSC-Bot/pull/9) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
-3. 💪 Opened PR [#9](https://github.com/DSC-UTDallas/DSC-Bot/pull/9) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
-4. 🎉 Merged PR [#8](https://github.com/DSC-UTDallas/DSC-Bot/pull/8) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
-5. 💪 Opened PR [#8](https://github.com/DSC-UTDallas/DSC-Bot/pull/8) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
+1. 🎉 Merged PR [#1](https://github.com/ReshmiCode/WeHack/pull/1) in [ReshmiCode/WeHack](https://github.com/ReshmiCode/WeHack)
+2. 💪 Opened PR [#1](https://github.com/ReshmiCode/WeHack/pull/1) in [ReshmiCode/WeHack](https://github.com/ReshmiCode/WeHack)
+3. 💪 Opened PR [#38](https://github.com/acmutd/acmutd.github.io/pull/38) in [acmutd/acmutd.github.io](https://github.com/acmutd/acmutd.github.io)
+4. 🎉 Merged PR [#9](https://github.com/DSC-UTDallas/DSC-Bot/pull/9) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
+5. 💪 Opened PR [#9](https://github.com/DSC-UTDallas/DSC-Bot/pull/9) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
 <!--END_SECTION:activity-->
 
 ![Saloni's github stats](https://github-readme-stats.vercel.app/api?username=SaloniSS)
