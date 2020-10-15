@@ -54,10 +54,10 @@ I am also actively involved in campus organization where I am the cloud technica
 ### Learn more about me on my [website](https://www.saloni-shivdasani.codes) and view all my projects on my portfolios [here](https://www.saloni-shivdasani.codes/projects) and  [here](http://devpost.com/SaloniS)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/SaloniSS/Personal-Website/pull/6) in [SaloniSS/Personal-Website](https://github.com/SaloniSS/Personal-Website)
-2. 🎉 Merged PR [#4](https://github.com/ReshmiCode/WeHack/pull/4) in [ReshmiCode/WeHack](https://github.com/ReshmiCode/WeHack)
-3. 💪 Opened PR [#4](https://github.com/ReshmiCode/WeHack/pull/4) in [ReshmiCode/WeHack](https://github.com/ReshmiCode/WeHack)
-4. 🎉 Merged PR [#3](https://github.com/ReshmiCode/WeHack/pull/3) in [ReshmiCode/WeHack](https://github.com/ReshmiCode/WeHack)
+1. 🎉 Merged PR [#7](https://github.com/SaloniSS/Personal-Website/pull/7) in [SaloniSS/Personal-Website](https://github.com/SaloniSS/Personal-Website)
+2. 🎉 Merged PR [#6](https://github.com/SaloniSS/Personal-Website/pull/6) in [SaloniSS/Personal-Website](https://github.com/SaloniSS/Personal-Website)
+3. 🎉 Merged PR [#4](https://github.com/ReshmiCode/WeHack/pull/4) in [ReshmiCode/WeHack](https://github.com/ReshmiCode/WeHack)
+4. 💪 Opened PR [#4](https://github.com/ReshmiCode/WeHack/pull/4) in [ReshmiCode/WeHack](https://github.com/ReshmiCode/WeHack)
 5. 💪 Opened PR [#3](https://github.com/ReshmiCode/WeHack/pull/3) in [ReshmiCode/WeHack](https://github.com/ReshmiCode/WeHack)
 <!--END_SECTION:activity-->
 
