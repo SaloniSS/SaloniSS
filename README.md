@@ -79,7 +79,7 @@ I am also actively involved in campus organization where I am the cloud technica
  > 
 > 💼 Opted to Hire
  > 
-> 📜 21 Public Repositories
+> 📜 22 Public Repositories
  > 
 > 🔑 17 Private Repositories 
 
