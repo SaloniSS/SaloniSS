@@ -69,7 +69,7 @@ I am also actively involved in campus organization where I am the cloud technica
 <summary>More Stats 📊 </summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.3%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -120,11 +120,11 @@ Other                    1 min               █░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               23 repos            ████████████░░░░░░░░░░░░░   51.11% 
+JavaScript               24 repos            █████████████░░░░░░░░░░░░   53.33% 
 Java                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
 TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
 CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.44%
 
 ```
 
