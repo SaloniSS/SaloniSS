@@ -73,7 +73,7 @@ I am also actively involved in campus organization where I am the cloud technica
 
 **🐱 My Github Data** 
 
-> 📦 527.9 kB Used in Github's Storage 
+> 📦 528.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
