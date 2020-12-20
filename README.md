@@ -69,13 +69,13 @@ I am also actively involved in campus organization where I am the cloud technica
 <summary>More Stats 📊 </summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 1,753 Contributions in the Year 2020
  > 
-> 📦 536.4 kB Used in Github's Storage 
+> 📦 536.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
