@@ -73,7 +73,7 @@ I am also actively involved in campus organization where I am the cloud technica
 
 **🐱 My Github Data** 
 
-> 🏆 0 Contributions in the Year 2021
+> 🏆 4 Contributions in the Year 2021
  > 
 > 📦 536.5 kB Used in Github's Storage 
  > 
@@ -81,7 +81,7 @@ I am also actively involved in campus organization where I am the cloud technica
  > 
 > 📜 24 Public Repositories 
  > 
-> 🔑 18 Private Repositories  
+> 🔑 19 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -119,11 +119,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               25 repos            █████████████░░░░░░░░░░░░   52.08% 
-Java                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.42% 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.42% 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+JavaScript               25 repos            ████████████░░░░░░░░░░░░░   51.02% 
+Java                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.16% 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.12%
 
 ```
 
