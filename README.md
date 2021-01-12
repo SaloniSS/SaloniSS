@@ -96,10 +96,10 @@ I am also actively involved in campus organization where I am the cloud technica
 
 ```text
 Monday       111 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.96% 
-Tuesday      97 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.71% 
+Tuesday      101 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.07% 
 Wednesday    95 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.53% 
 Thursday     66 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.92% 
-Friday       123 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.04% 
+Friday       119 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.68% 
 Saturday     356 commits    ████████░░░░░░░░░░░░░░░░░   31.96% 
 Sunday       266 commits    ██████░░░░░░░░░░░░░░░░░░░   23.88%
 
