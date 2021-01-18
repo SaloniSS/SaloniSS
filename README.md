@@ -23,11 +23,12 @@ const SaloniShivdasani = {
         cloudTechnicalLead: "Developer Students Club, UTD"
    },
    hackathons: {
-        attended: 21,
-        won: 10,
+        attended: 25,
+        won: 11,
         mentoredJudged: 3
    },
    awards: {
+        Nation_Cyber_League_Fall_2020: "Gold Bracket Competitor - Top 15% nationally"
         WiCyS_Google_2020: "SANS Security Training Scholarship",
         SANSInstitute_2019: "Cyber Fast-Track Game Quarter-Finalist",
    },
