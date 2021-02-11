@@ -55,11 +55,11 @@ I am also actively involved in campus organization where I am the cloud technica
 ### Learn more about me on my [website](https://www.saloni-shivdasani.codes) and view all my projects on my portfolios [here](https://www.saloni-shivdasani.codes/projects) and  [here](http://devpost.com/SaloniS)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/DSC-UTDallas/DSC-Bot/pull/16) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
-2. 💪 Opened PR [#16](https://github.com/DSC-UTDallas/DSC-Bot/pull/16) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
-3. 🎉 Merged PR [#15](https://github.com/DSC-UTDallas/DSC-Bot/pull/15) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
-4. 🗣 Commented on [#15](https://github.com/DSC-UTDallas/DSC-Bot/issues/15) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
-5. 💪 Opened PR [#15](https://github.com/DSC-UTDallas/DSC-Bot/pull/15) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
+1. ❌ Closed PR [#17](https://github.com/DSC-UTDallas/DSC-Bot/pull/17) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
+2. 💪 Opened PR [#17](https://github.com/DSC-UTDallas/DSC-Bot/pull/17) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
+3. 🎉 Merged PR [#16](https://github.com/DSC-UTDallas/DSC-Bot/pull/16) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
+4. 💪 Opened PR [#16](https://github.com/DSC-UTDallas/DSC-Bot/pull/16) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
+5. 🎉 Merged PR [#15](https://github.com/DSC-UTDallas/DSC-Bot/pull/15) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
 <!--END_SECTION:activity-->
 
 ![Saloni's github stats](https://github-readme-stats.vercel.app/api?username=SaloniSS)
