@@ -74,7 +74,7 @@ I am also actively involved in campus organization where I am the cloud technica
 
 **🐱 My Github Data** 
 
-> 🏆 134 Contributions in the Year 2021
+> 🏆 132 Contributions in the Year 2021
  > 
 > 📦 545.9 kB Used in Github's Storage 
  > 
