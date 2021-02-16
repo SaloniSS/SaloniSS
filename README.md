@@ -7,20 +7,20 @@ const SaloniShivdasani = {
     pronouns: "She/Her" && "They/Them",
     askMeAbout: ["Full Stack Web Development", "Cloud Computing", "Cyber Security"],
     technologies: {
-        languages: ["Java", "JavaScript", "SQL", "Python", "C++", "R"],
+        languages: ["Java", "JavaScript", "SQL", "Python", "C++", "BASH", "R"],
         webDev: {
             frontEnd: ["React", "React Native", "Electron"],
             backEnd: ["Node.js", "Express", "Flask"],
             databases: ["MongoDB", "MySql"],
         },
         cyberSec: ["Forensics", "Intrusion Detection", "Security Operations", "Network and Application Penetration Testing"],
-        cloud: ["GCP", "AWS"],
+        cloud: ["GCP", "AWS", "Splunk"],
         misc: ["Firebase", "git"]
     },
    organizations: {
         educationOfficer: "Association of Computer Machinery, UTD",
-        eventPlanner: "Women Mentoring Women in Engineering, UTD",
-        cloudTechnicalLead: "Developer Students Club, UTD"
+        cloudTechnicalLead: "Developer Students Club, UTD",
+        eventPlanner: "Women Mentoring Women in Engineering, UTD"
    },
    hackathons: {
         attended: 25,
@@ -28,7 +28,7 @@ const SaloniShivdasani = {
         mentoredJudged: 3
    },
    awards: {
-        Nation_Cyber_League_Fall_2020: "Gold Bracket Competitor - Top 15% nationally"
+        Nation_Cyber_League_Fall_2020: "Gold Bracket Competitor - Top 15% nationally",
         WiCyS_Google_2020: "SANS Security Training Scholarship",
         SANSInstitute_2019: "Cyber Fast-Track Game Quarter-Finalist",
    },
