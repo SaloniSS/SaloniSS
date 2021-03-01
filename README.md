@@ -55,10 +55,10 @@ I am also actively involved in campus organization where I am the cloud technica
 ### Learn more about me on my [website](https://www.saloni-shivdasani.codes) and view all my projects on my portfolios [here](https://www.saloni-shivdasani.codes/projects) and  [here](http://devpost.com/SaloniS)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/SaloniSS/open-sauced-goals/issues/3) in [SaloniSS/open-sauced-goals](https://github.com/SaloniSS/open-sauced-goals)
-2. ❗️ Opened issue [#2](https://github.com/SaloniSS/open-sauced-goals/issues/2) in [SaloniSS/open-sauced-goals](https://github.com/SaloniSS/open-sauced-goals)
-3. ❗️ Opened issue [#1](https://github.com/SaloniSS/open-sauced-goals/issues/1) in [SaloniSS/open-sauced-goals](https://github.com/SaloniSS/open-sauced-goals)
-4. 🎉 Merged PR [#20](https://github.com/DSC-UTDallas/DSC-Bot/pull/20) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
+1. ❗️ Closed issue [#3](https://github.com/SaloniSS/open-sauced-goals/issues/3) in [SaloniSS/open-sauced-goals](https://github.com/SaloniSS/open-sauced-goals)
+2. ❗️ Opened issue [#3](https://github.com/SaloniSS/open-sauced-goals/issues/3) in [SaloniSS/open-sauced-goals](https://github.com/SaloniSS/open-sauced-goals)
+3. ❗️ Opened issue [#2](https://github.com/SaloniSS/open-sauced-goals/issues/2) in [SaloniSS/open-sauced-goals](https://github.com/SaloniSS/open-sauced-goals)
+4. ❗️ Opened issue [#1](https://github.com/SaloniSS/open-sauced-goals/issues/1) in [SaloniSS/open-sauced-goals](https://github.com/SaloniSS/open-sauced-goals)
 5. 💪 Opened PR [#20](https://github.com/DSC-UTDallas/DSC-Bot/pull/20) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
 <!--END_SECTION:activity-->
 
