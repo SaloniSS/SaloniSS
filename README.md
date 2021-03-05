@@ -55,11 +55,11 @@ I am also actively involved in campus organization where I am the cloud technica
 ### Learn more about me on my [website](https://www.saloni-shivdasani.codes) and view all my projects on my portfolios [here](https://www.saloni-shivdasani.codes/projects) and  [here](http://devpost.com/SaloniS)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/DSC-UTDallas/DSC-Bot/pull/22) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
-2. 💪 Opened PR [#22](https://github.com/DSC-UTDallas/DSC-Bot/pull/22) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
-3. ❗️ Closed issue [#3](https://github.com/SaloniSS/open-sauced-goals/issues/3) in [SaloniSS/open-sauced-goals](https://github.com/SaloniSS/open-sauced-goals)
-4. ❗️ Opened issue [#3](https://github.com/SaloniSS/open-sauced-goals/issues/3) in [SaloniSS/open-sauced-goals](https://github.com/SaloniSS/open-sauced-goals)
-5. ❗️ Opened issue [#2](https://github.com/SaloniSS/open-sauced-goals/issues/2) in [SaloniSS/open-sauced-goals](https://github.com/SaloniSS/open-sauced-goals)
+1. 🗣 Commented on [#23](https://github.com/DSC-UTDallas/DSC-Bot/issues/23) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
+2. ❗️ Opened issue [#23](https://github.com/DSC-UTDallas/DSC-Bot/issues/23) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
+3. 🎉 Merged PR [#22](https://github.com/DSC-UTDallas/DSC-Bot/pull/22) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
+4. 💪 Opened PR [#22](https://github.com/DSC-UTDallas/DSC-Bot/pull/22) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
+5. ❗️ Closed issue [#3](https://github.com/SaloniSS/open-sauced-goals/issues/3) in [SaloniSS/open-sauced-goals](https://github.com/SaloniSS/open-sauced-goals)
 <!--END_SECTION:activity-->
 
 ![Saloni's github stats](https://github-readme-stats.vercel.app/api?username=SaloniSS)
