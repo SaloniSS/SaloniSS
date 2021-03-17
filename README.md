@@ -20,11 +20,10 @@ const SaloniShivdasani = {
    organizations: {
         educationOfficer: "Association of Computer Machinery, UTD",
         cloudTechnicalLead: "Developer Students Club, UTD",
-        eventPlanner: "Women Mentoring Women in Engineering, UTD"
    },
    hackathons: {
-        attended: 25,
-        won: 11,
+        attended: 29,
+        won: 14,
         mentoredJudged: 3
    },
    awards: {
