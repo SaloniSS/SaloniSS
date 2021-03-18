@@ -15,7 +15,7 @@ const SaloniShivdasani = {
         },
         cyberSec: ["Forensics", "Intrusion Detection", "Security Operations", "Network and Application Penetration Testing"],
         cloud: ["GCP", "AWS", "Splunk"],
-        misc: ["Firebase", "git"]
+        misc: ["Firebase", "git","Jira","Confluence"]
     },
    organizations: {
         educationOfficer: "Association of Computer Machinery, UTD",
