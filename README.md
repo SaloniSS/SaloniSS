@@ -54,11 +54,11 @@ I am also actively involved in campus organization where I am the cloud technica
 ### Learn more about me on my [website](https://www.saloni-shivdasani.codes) and view all my projects on my portfolios [here](https://www.saloni-shivdasani.codes/projects) and  [here](http://devpost.com/SaloniS)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#33](https://github.com/DSC-UTDallas/DSC-Bot/issues/33) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
-2. ❗️ Opened issue [#32](https://github.com/DSC-UTDallas/DSC-Bot/issues/32) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
-3. ❗️ Opened issue [#31](https://github.com/DSC-UTDallas/DSC-Bot/issues/31) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
-4. 🗣 Commented on [#30](https://github.com/DSC-UTDallas/DSC-Bot/issues/30) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
-5. ❗️ Opened issue [#30](https://github.com/DSC-UTDallas/DSC-Bot/issues/30) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
+1. 🗣 Commented on [#21](https://github.com/DSC-UTDallas/DSC-Bot/issues/21) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
+2. ❗️ Opened issue [#34](https://github.com/DSC-UTDallas/DSC-Bot/issues/34) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
+3. ❗️ Opened issue [#33](https://github.com/DSC-UTDallas/DSC-Bot/issues/33) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
+4. ❗️ Opened issue [#32](https://github.com/DSC-UTDallas/DSC-Bot/issues/32) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
+5. ❗️ Opened issue [#31](https://github.com/DSC-UTDallas/DSC-Bot/issues/31) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
 <!--END_SECTION:activity-->
 
 ![Saloni's github stats](https://github-readme-stats.vercel.app/api?username=SaloniSS)
