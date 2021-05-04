@@ -73,7 +73,7 @@ I am also actively involved in campus organization where I am the cloud technica
 
 **🐱 My Github Data** 
 
-> 🏆 305 Contributions in the Year 2021
+> 🏆 312 Contributions in the Year 2021
  > 
 > 📦 561.0 kB Used in Github's Storage 
  > 
@@ -95,13 +95,13 @@ I am also actively involved in campus organization where I am the cloud technica
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       101 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.35% 
+Monday       105 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.72% 
 Tuesday      89 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.24% 
 Wednesday    96 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.89% 
 Thursday     68 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.3% 
 Friday       87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.06% 
 Saturday     368 commits    ████████░░░░░░░░░░░░░░░░░   34.07% 
-Sunday       271 commits    ██████░░░░░░░░░░░░░░░░░░░   25.09%
+Sunday       267 commits    ██████░░░░░░░░░░░░░░░░░░░   24.72%
 
 ```
 
