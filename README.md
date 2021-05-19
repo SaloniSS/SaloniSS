@@ -39,7 +39,7 @@ const SaloniShivdasani = {
 
 <summary>Learn More About Me 😄 </summary>
 
-I am a junior at The University of Texas at Dallas, and I am currently majoring in Software Engineering with a concentration in Information Assurance. I am interested and have experience in full stack development, cloud computing, and cybersecurity. I hope to find opportunities where I can gain exposure to algorithm and project design. My ultimate aim is to develop futuristic products for users because I am inspired by the impact of computing on society.
+I am a senior at The University of Texas at Dallas, and I am currently majoring in Software Engineering with a concentration in Information Assurance. I am interested and have experience in full stack development, cloud computing, and cybersecurity. I hope to find opportunities where I can gain exposure to algorithm and project design. My ultimate aim is to develop futuristic products for users because I am inspired by the impact of computing on society.
 
 I have experience in full stack web development through my participation and awards in hackathons where I have learnt and used React, Node.js, Express, MongoDB, Flask, NLTK, and React Native along with GIT, GCP, and Firebase. Last semester, I was also responsible for backend development for a project at a local NGO where I created a REST API using Node.js, Express, MongoDB and SQL and hosted it on servers using GCP. 
 
