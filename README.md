@@ -20,6 +20,7 @@ const SaloniShivdasani = {
    organizations: {
         educationOfficer: "Association of Computer Machinery, UTD",
         cloudTechnicalLead: "Developer Students Club, UTD",
+        historian: Queer and Trans People of Color, UTD",
    },
    hackathons: {
         attended: 28,
@@ -28,7 +29,7 @@ const SaloniShivdasani = {
    },
    awards: {
         Women_in_CyberSecurity_2021: "BIPOC Fellowship Award"
-        Nation_Cyber_League_Spring 2020: "Gold Bracket Competitor - Top 15% nationally",
+        Nation_Cyber_League_Spring_2021: "Gold Bracket Competitor - Top 15% nationally",
         Nation_Cyber_League_Fall_2020: "Gold Bracket Competitor - Top 15% nationally",
         WiCyS_Google_2020: "SANS Security Training Scholarship",
         SANSInstitute_2019: "Cyber Fast-Track Game Quarter-Finalist",
