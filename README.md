@@ -27,6 +27,8 @@ const SaloniShivdasani = {
         mentoredJudged: 3
    },
    awards: {
+        Women_in_CyberSecurity_2021: "BIPOC Fellowship Award"
+        Nation_Cyber_League_Spring 2020: "Gold Bracket Competitor - Top 15% nationally",
         Nation_Cyber_League_Fall_2020: "Gold Bracket Competitor - Top 15% nationally",
         WiCyS_Google_2020: "SANS Security Training Scholarship",
         SANSInstitute_2019: "Cyber Fast-Track Game Quarter-Finalist",
