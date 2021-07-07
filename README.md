@@ -17,10 +17,14 @@ const SaloniShivdasani = {
         cloud: ["GCP", "AWS", "Splunk"],
         misc: ["Firebase", "git","Jira","Confluence"]
     },
-   organizations: {
+   currentOrganizations: {
+        president: "Developer Students Club, UTD",
         educationOfficer: "Association of Computer Machinery, UTD",
+        historian: "Queer and Trans People of Color, UTD",
+   },
+   pastOrganizations: {
+        eventPlanner: "Women Mentoring Women in Engineering, UTD",
         cloudTechnicalLead: "Developer Students Club, UTD",
-        historian: Queer and Trans People of Color, UTD",
    },
    hackathons: {
         attended: 28,
