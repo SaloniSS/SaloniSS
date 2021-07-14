@@ -82,7 +82,7 @@ I am also actively involved in campus organization where I am the cloud technica
 
 > 🏆 387 Contributions in the Year 2021
  > 
-> 📦 585.7 kB Used in Github's Storage 
+> 📦 585.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -140,7 +140,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/07/2021
+ Last Updated on 14/07/2021
 <!--END_SECTION:waka-->
 
 <!--END_SECTION:table-->
