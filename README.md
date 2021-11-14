@@ -80,7 +80,7 @@ I am also actively involved in campus organization where I am the cloud technica
 
 **🐱 My GitHub Data** 
 
-> 🏆 416 Contributions in the Year 2021
+> 🏆 413 Contributions in the Year 2021
  > 
 > 📦 591.2 kB Used in GitHub's Storage 
  > 
@@ -140,7 +140,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/11/2021
+ Last Updated on 14/11/2021
 <!--END_SECTION:waka-->
 
 <!--END_SECTION:table-->
