@@ -76,15 +76,15 @@ I am also actively involved in campus organization where I am the cloud technica
 <summary>More Stats 📊 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-798%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-798%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 8 Contributions in the Year 2022
+> 🏆 9 Contributions in the Year 2022
  > 
-> 📦 591.2 kB Used in GitHub's Storage 
+> 📦 591.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -96,16 +96,16 @@ I am also actively involved in campus organization where I am the cloud technica
 
 ```text
 🌞 Morning    57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.07% 
-🌆 Daytime    181 commits    ████████░░░░░░░░░░░░░░░░░   35.15% 
-🌃 Evening    214 commits    ██████████░░░░░░░░░░░░░░░   41.55% 
+🌆 Daytime    180 commits    ████████░░░░░░░░░░░░░░░░░   34.95% 
+🌃 Evening    215 commits    ██████████░░░░░░░░░░░░░░░   41.75% 
 🌙 Night      63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.23%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       139 commits    ██████░░░░░░░░░░░░░░░░░░░   26.99% 
-Tuesday      85 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.5% 
+Monday       140 commits    ██████░░░░░░░░░░░░░░░░░░░   27.18% 
+Tuesday      84 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.31% 
 Wednesday    32 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.21% 
 Thursday     9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.75% 
 Friday       35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.8% 
