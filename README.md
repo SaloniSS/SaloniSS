@@ -76,13 +76,15 @@ I am also actively involved in campus organization where I am the cloud technica
 <summary>More Stats 📊 </summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-843%20hrs%2051%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 9 Contributions in the Year 2022
  > 
-> 📦 593.7 kB Used in GitHub's Storage 
+> 📦 593.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -119,11 +121,11 @@ Sunday       112 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Other                    4 hrs 30 mins       ██████████████░░░░░░░░░░░   55.75% 
-Python                   2 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.82% 
-Dart                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.4% 
-TypeScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.66% 
-CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01%
+Other                    4 hrs 30 mins       ███████████████░░░░░░░░░░   60.21% 
+Python                   1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.8% 
+Dart                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.23% 
+TypeScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.27% 
+CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
 
 ```
 
@@ -140,7 +142,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2022 06:21:22 UTC
+ Last Updated on 14/02/2022 06:44:18 UTC
 <!--END_SECTION:waka-->
 
 <!--END_SECTION:table-->
