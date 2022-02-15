@@ -76,7 +76,7 @@ I am also actively involved in campus organization where I am the cloud technica
 <summary>More Stats 📊 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-843%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-843%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
@@ -142,7 +142,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2022 23:06:16 UTC
+ Last Updated on 15/02/2022 01:41:35 UTC
 <!--END_SECTION:waka-->
 
 <!--END_SECTION:table-->
