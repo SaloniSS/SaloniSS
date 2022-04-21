@@ -84,7 +84,7 @@ I am also actively involved in campus organization where I am the cloud technica
 
 > 🏆 56 Contributions in the Year 2022
  > 
-> 📦 594.9 kB Used in GitHub's Storage 
+> 📦 594.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -140,7 +140,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/04/2022 17:22:00 UTC
+ Last Updated on 21/04/2022 18:30:07 UTC
 <!--END_SECTION:waka-->
 
 <!--END_SECTION:table-->
