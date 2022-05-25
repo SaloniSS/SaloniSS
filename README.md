@@ -4,7 +4,7 @@
 
 ```javascript
 const SaloniShivdasani = {
-    pronouns: "She/Her" && "They/Them",
+    pronouns: "She/Her",
     askMeAbout: ["Full Stack Web Development", "Cloud Computing", "Cyber Security"],
     technologies: {
         languages: ["Java", "JavaScript", "SQL", "Python", "C++", "BASH", "R"],
