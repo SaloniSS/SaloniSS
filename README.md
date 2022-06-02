@@ -76,7 +76,7 @@ I am also actively involved in campus organization where I am the cloud technica
 <summary>More Stats 📊 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-981%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C008%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
@@ -121,11 +121,11 @@ Sunday       113 commits    ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Dart                     5 hrs 49 mins       ████████████████░░░░░░░░░   66.58% 
-Other                    2 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   28.62% 
-TypeScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28% 
-YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43% 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95%
+Other                    4 hrs 5 mins        ███████████░░░░░░░░░░░░░░   44.45% 
+Dart                     3 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   42.7% 
+TypeScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.21% 
+JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.52% 
+YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36%
 
 ```
 
@@ -142,7 +142,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/06/2022 05:27:35 UTC
+ Last Updated on 02/06/2022 05:59:30 UTC
 <!--END_SECTION:waka-->
 
 <!--END_SECTION:table-->
