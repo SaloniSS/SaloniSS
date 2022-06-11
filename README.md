@@ -61,7 +61,7 @@ I am also actively involved in campus organization where I am the cloud technica
 ### Learn more about me on my [website](https://www.saloni-shivdasani.codes) and view all my projects on my portfolios [here](https://www.saloni-shivdasani.codes/projects) and  [here](http://devpost.com/SaloniS)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#22](https://github.com/martin-braun/google_maps_place_picker_mb/issues/22) in [martin-braun/google_maps_place_picker_mb](https://github.com/martin-braun/google_maps_place_picker_mb)
+1. 🗣 Commented on [#9886](https://github.com/firebase/firebase-ios-sdk/issues/9886) in [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk)
 2. 💪 Opened PR [#48](https://github.com/DSC-UTDallas/DSC-Bot/pull/48) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
 3. 🎉 Merged PR [#47](https://github.com/DSC-UTDallas/DSC-Bot/pull/47) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
 4. 💪 Opened PR [#47](https://github.com/DSC-UTDallas/DSC-Bot/pull/47) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
