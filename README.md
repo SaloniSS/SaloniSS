@@ -80,19 +80,18 @@ I am also actively involved in campus organization where I am the cloud technica
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**📊 Global GitHub data** 
 
-> 🏆 66 Contributions in the Year 2022
+```text
+🏆 66 contributions in 2022
+
+📦 575.4 kB used in GitHub's storage 
+
+📜 29 Public Repositories 
+
+🔑 25 Private Repositories  
  > 
-> 📦 575.4 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 29 Public Repositories 
- > 
-> 🔑 25 Private Repositories  
- > 
-**I'm a Night 🦉** 
+**I'm a night 🦉** 
 
 ```text
 🌞 Morning    66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.22% 
@@ -101,7 +100,7 @@ I am also actively involved in campus organization where I am the cloud technica
 🌙 Night      64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.79%
 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm most productive on Monday** 
 
 ```text
 Monday       131 commits    ███████░░░░░░░░░░░░░░░░░░   28.23% 
@@ -115,7 +114,7 @@ Sunday       113 commits    ██████░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 ⌚︎ Time Zone: America/Chicago
@@ -129,7 +128,7 @@ Markdown                 4 mins              ░░░░░░░░░░░�
 
 ```
 
-**I Mostly Code in JavaScript** 
+**💻 I mostly code in JavaScript** 
 
 ```text
 JavaScript               23 repos            ██████████░░░░░░░░░░░░░░░   41.82% 
@@ -142,7 +141,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2022 07:26:13 UTC
+ Last Updated on 12/06/2022 07:48:25 UTC
 <!--END_SECTION:waka-->
 
 <!--END_SECTION:table-->
