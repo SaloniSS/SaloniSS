@@ -61,8 +61,8 @@ I am also actively involved in campus organization where I am the cloud technica
 ### Learn more about me on my [website](https://www.saloni-shivdasani.codes) and view all my projects on my portfolios [here](https://www.saloni-shivdasani.codes/projects) and  [here](http://devpost.com/SaloniS)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9057](https://github.com/firebase/flutterfire/issues/9057) in [firebase/flutterfire](https://github.com/firebase/flutterfire)
-2. 💪 Opened PR [#48](https://github.com/DSC-UTDallas/DSC-Bot/pull/48) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
+1. ❗️ Opened issue [#107317](https://github.com/flutter/flutter/issues/107317) in [flutter/flutter](https://github.com/flutter/flutter)
+2. ❗️ Opened issue [#9057](https://github.com/firebase/flutterfire/issues/9057) in [firebase/flutterfire](https://github.com/firebase/flutterfire)
 3. 🎉 Merged PR [#47](https://github.com/DSC-UTDallas/DSC-Bot/pull/47) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
 4. 💪 Opened PR [#47](https://github.com/DSC-UTDallas/DSC-Bot/pull/47) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
 5. ❗️ Closed issue [#34](https://github.com/DSC-UTDallas/DSC-Bot/issues/34) in [DSC-UTDallas/DSC-Bot](https://github.com/DSC-UTDallas/DSC-Bot)
