@@ -76,7 +76,7 @@ I am also actively involved in campus organization where I am the cloud technica
 <summary>More Stats 📊 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C062%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C060%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
@@ -92,43 +92,6 @@ I am also actively involved in campus organization where I am the cloud technica
  > 
 > 🔑 26 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.31% 
-🌆 Daytime    159 commits    ████████░░░░░░░░░░░░░░░░░   32.06% 
-🌃 Evening    199 commits    ██████████░░░░░░░░░░░░░░░   40.12% 
-🌙 Night      72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.52%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       140 commits    ███████░░░░░░░░░░░░░░░░░░   28.23% 
-Tuesday      81 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
-Wednesday    28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.65% 
-Thursday     16 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23% 
-Friday       29 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.85% 
-Saturday     79 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.93% 
-Sunday       123 commits    ██████░░░░░░░░░░░░░░░░░░░   24.8%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Chicago
-
-💬 Programming Languages: 
-Python                   4 hrs 26 mins       ██████████████████░░░░░░░   75.47% 
-Other                    1 hr                ████░░░░░░░░░░░░░░░░░░░░░   16.98% 
-Dart                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.66% 
-V                        9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61% 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -142,7 +105,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2022 04:23:07 UTC
+ Last Updated on 14/09/2022 05:58:51 UTC
 <!--END_SECTION:waka-->
 
 <!--END_SECTION:table-->
