@@ -76,7 +76,7 @@ I am also actively involved in campus organization where I am the cloud technica
 <summary>More Stats 📊 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C209%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C209%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
@@ -84,7 +84,7 @@ I am also actively involved in campus organization where I am the cloud technica
 
 > 🏆 137 Contributions in the Year 2022
  > 
-> 📦 581.5 kB Used in GitHub's Storage 
+> 📦 581.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -142,7 +142,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2022 17:58:56 UTC
+ Last Updated on 05/12/2022 18:52:10 UTC
 <!--END_SECTION:waka-->
 
 <!--END_SECTION:table-->
