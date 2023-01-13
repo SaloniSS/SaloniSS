@@ -82,7 +82,7 @@ I am also actively involved in campus organization where I am the cloud technica
 
 **🐱 My GitHub Data** 
 
-> 🏆 2 Contributions in the Year 2023
+> 🏆 1 Contributions in the Year 2023
  > 
 > 📦 589.5 kB Used in GitHub's Storage 
  > 
@@ -142,7 +142,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/01/2023 17:34:16 UTC
+ Last Updated on 13/01/2023 17:47:22 UTC
 <!--END_SECTION:waka-->
 
 <!--END_SECTION:table-->
