@@ -76,7 +76,7 @@ I am also actively involved in campus organization where I am the cloud technica
 <summary>More Stats 📊 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C260%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C262%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
 
@@ -121,10 +121,10 @@ Sunday       81 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               3 hrs 40 mins       █████████████░░░░░░░░░░░░   55.05% 
-Other                    2 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   41.18% 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.75% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+JavaScript               4 hrs 25 mins       █████████████░░░░░░░░░░░░   55.12% 
+Other                    3 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   40.54% 
+Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.33% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 ```
 
@@ -141,7 +141,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2023 06:20:38 UTC
+ Last Updated on 01/02/2023 06:43:09 UTC
 <!--END_SECTION:waka-->
 
 <!--END_SECTION:table-->
