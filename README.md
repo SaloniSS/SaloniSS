@@ -82,8 +82,6 @@ I am also actively involved in campus organization where I am the cloud technica
 
 **🐱 My GitHub Data** 
 
-> 🏆 21 Contributions in the Year 2023
- > 
 > 📦 590.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -141,7 +139,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/02/2023 20:59:00 UTC
+ Last Updated on 21/02/2023 21:19:28 UTC
 <!--END_SECTION:waka-->
 
 <!--END_SECTION:table-->
