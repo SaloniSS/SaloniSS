@@ -82,7 +82,7 @@ I am also actively involved in campus organization where I am the cloud technica
 
 **🐱 My GitHub Data** 
 
-> 📦 590.3 kB Used in GitHub's Storage 
+> 📦 590.1 kB Used in GitHub's Storage 
  > 
 > 🏆 40 Contributions in the Year 2023
  > 
@@ -139,7 +139,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/03/2023 10:31:04 UTC
+ Last Updated on 01/03/2023 10:46:45 UTC
 <!--END_SECTION:waka-->
 
 <!--END_SECTION:table-->
