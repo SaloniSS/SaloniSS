@@ -3,7 +3,7 @@
 <img align='right' src="https://storage.googleapis.com/saloni-shivdasani-resume/Saloni.png" width="200">
 
 ```javascript
-const SaloniShivdasani = {
+const Saloni = {
     pronouns: "She/Her",
     askMeAbout: ["Full Stack Web Development", "Cloud Computing", "Cyber Security"],
     technologies: {
