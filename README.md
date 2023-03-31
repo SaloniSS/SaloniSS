@@ -76,7 +76,7 @@ I am also actively involved in campus organization where I am the cloud technica
 <summary>More Stats 📊 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C343%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C347%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.6%20million%20lines%20of%20code-blue)
 
@@ -119,11 +119,10 @@ Sunday                   7249 commits        █████░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Other                    3 hrs 30 mins       ███████████████░░░░░░░░░░   59.35 % 
-JavaScript               2 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   35.18 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    3 hrs 30 mins       ███████████████████░░░░░░   77.44 % 
+JavaScript               54 mins             █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -139,7 +138,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/03/2023 05:30:37 UTC
+ Last Updated on 31/03/2023 05:58:11 UTC
 <!--END_SECTION:waka-->
 
 <!--END_SECTION:table-->
