@@ -76,7 +76,7 @@ I am also actively involved in campus organization where I am the cloud technica
 <summary>More Stats 📊 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C393%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C393%20hrs%2030%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.0%20million%20lines%20of%20code-blue)
 
@@ -95,7 +95,7 @@ I am also actively involved in campus organization where I am the cloud technica
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                6979 commits        █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+🌞 Morning                6981 commits        █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
 🌆 Daytime                8786 commits        ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
 🌃 Evening                12310 commits       ████████░░░░░░░░░░░░░░░░░   33.20 % 
 🌙 Night                  8999 commits        ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
@@ -107,7 +107,7 @@ Monday                   3907 commits        ███░░░░░░░░�
 Tuesday                  3596 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
 Wednesday                4796 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
 Thursday                 4062 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Friday                   4658 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Friday                   4660 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
 Saturday                 8645 commits        ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
 Sunday                   7410 commits        █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
 ```
@@ -139,7 +139,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/04/2023 15:32:04 UTC
+ Last Updated on 21/04/2023 16:09:02 UTC
 <!--END_SECTION:waka-->
 
 <!--END_SECTION:table-->
