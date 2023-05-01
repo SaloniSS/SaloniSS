@@ -76,7 +76,7 @@ I am also actively involved in campus organization where I am the cloud technica
 <summary>More Stats 📊 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C422%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C422%20hrs%2012%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.1%20million%20lines%20of%20code-blue)
 
@@ -84,7 +84,7 @@ I am also actively involved in campus organization where I am the cloud technica
 
 > 📦 591.8 kB Used in GitHub's Storage 
  > 
-> 🏆 349 Contributions in the Year 2023
+> 🏆 350 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -139,7 +139,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/05/2023 20:11:31 UTC
+ Last Updated on 01/05/2023 21:06:07 UTC
 <!--END_SECTION:waka-->
 
 <!--END_SECTION:table-->
