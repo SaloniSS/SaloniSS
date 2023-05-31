@@ -76,7 +76,7 @@ I am also actively involved in campus organization where I am the cloud technica
 <summary>More Stats 📊 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C462%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C462%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.1%20million%20lines%20of%20code-blue)
 
@@ -95,7 +95,7 @@ I am also actively involved in campus organization where I am the cloud technica
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7137 commits        █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+🌞 Morning                7139 commits        █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
 🌆 Daytime                9282 commits        ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
 🌃 Evening                12325 commits       ████████░░░░░░░░░░░░░░░░░   32.64 % 
 🌙 Night                  9019 commits        ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
@@ -105,10 +105,10 @@ I am also actively involved in campus organization where I am the cloud technica
 ```text
 Monday                   4034 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
 Tuesday                  3763 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Wednesday                4941 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Wednesday                4943 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 Thursday                 4233 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
 Friday                   4682 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Saturday                 8650 commits        ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+Saturday                 8650 commits        ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
 Sunday                   7460 commits        █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
 ```
 
@@ -139,7 +139,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2023 16:11:42 UTC
+ Last Updated on 31/05/2023 16:51:33 UTC
 <!--END_SECTION:waka-->
 
 <!--END_SECTION:table-->
