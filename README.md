@@ -68,7 +68,42 @@ I am also actively involved in campus organization where I am the cloud technica
 <summary>More Stats 📊 </summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C544%20hrs%2052%20mins-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.3%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 593.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 763 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 28 Public Repositories 
+ > 
+> 🔑 28 Private Repositories 
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Chicago
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               32 repos            ████████████░░░░░░░░░░░░░   47.76 % 
+Java                     11 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Python                   9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Coq                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+```
+
+
+
+
+ Last Updated on 13/07/2023 21:29:31 UTC
 <!--END_SECTION:waka-->
 
 <!--END_SECTION:table-->
