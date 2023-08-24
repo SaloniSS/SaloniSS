@@ -68,7 +68,7 @@ I am also actively involved in campus organization where I am the cloud technica
 <summary>More Stats 📊 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C642%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C640%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.3%20million%20lines%20of%20code-blue)
 
@@ -103,7 +103,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2023 01:18:45 UTC
+ Last Updated on 24/08/2023 02:29:09 UTC
 <!--END_SECTION:waka-->
 
 <!--END_SECTION:table-->
