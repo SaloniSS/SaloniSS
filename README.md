@@ -76,6 +76,8 @@ I am also actively involved in campus organization where I am the cloud technica
 
 > 📦 595.2 kB Used in GitHub's Storage 
  > 
+> 🏆 1 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 28 Public Repositories 
@@ -101,7 +103,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2024 22:25:18 UTC
+ Last Updated on 16/05/2024 23:25:04 UTC
 <!--END_SECTION:waka-->
 
 <!--END_SECTION:table-->
