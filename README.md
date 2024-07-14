@@ -93,17 +93,17 @@ I am also actively involved in campus organization where I am the cloud technica
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               29 repos            ███████████░░░░░░░░░░░░░░   45.31 % 
-Java                     11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Coq                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+JavaScript               28 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
+Java                     11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Coq                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 
 
 
 
- Last Updated on 14/07/2024 04:33:12 UTC
+ Last Updated on 14/07/2024 05:27:42 UTC
 <!--END_SECTION:waka-->
 
 <!--END_SECTION:table-->
