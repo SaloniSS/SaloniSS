@@ -70,7 +70,7 @@ I am also actively involved in campus organization where I am the cloud technica
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C595%20hrs%2031%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -93,17 +93,17 @@ I am also actively involved in campus organization where I am the cloud technica
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               27 repos            ███████████░░░░░░░░░░░░░░   43.55 % 
-Java                     11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Coq                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+JavaScript               24 repos            ██████████░░░░░░░░░░░░░░░   40.68 % 
+Java                     11 repos            █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Coq                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 
 
 
 
- Last Updated on 16/09/2024 16:34:08 UTC
+ Last Updated on 16/09/2024 17:27:20 UTC
 <!--END_SECTION:waka-->
 
 <!--END_SECTION:table-->
